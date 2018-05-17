@@ -1,0 +1,82 @@
+1525043125	Start Logging
+1525043144	wpses_mail "info" <info@fiduscript.com>	From: "Straker" <wordpress@www.naloxoneexchange.com>
+Reply-To: "Straker" <straker@skulljackdevelopment.com>
+
+1525043144	Error	SimpleEmailService::sendEmail(): Sender - MessageRejected: Email address is not verified. The following identities failed the check in region US-EAST-1: =?UTF-8?B?ImluZm8iIA==?= <info@fiduscript.com>
+Request Id: d848119a-4c01-11e8-b9fe-d9cdc64a18ee
+
+1525043189	2 Verified Identities.
+1525043189	Sender Ok
+1525043393	2 Verified Identities.
+1525043393	Sender Ok
+1525043580	wpses_mail "info" <info@naloxoneexchange.com>	From: "Straker" <wordpress@www.naloxoneexchange.com>
+Reply-To: "Straker" <straker@skulljackdevelopment.com>
+
+1525043580	SES id=0100016313ae4f72-7989c719-fbda-49b9-8f3f-81bf6013ae50-000000
+1525043678	wpses_mail user@example.com	
+1525043678	Error	SimpleEmailService::sendEmail(): Sender - MessageRejected: Email address is not verified. The following identities failed the check in region US-EAST-1: user@example.com
+Request Id: 16a98087-4c03-11e8-a2cc-7b7f0dc7dc89
+
+1525043678	wpses_mail jolott@uchicago.edu	
+1525043678	Error	SimpleEmailService::sendEmail(): Sender - MessageRejected: Email address is not verified. The following identities failed the check in region US-EAST-1: jolott@uchicago.edu
+Request Id: 16c98b1b-4c03-11e8-b7ad-ed4dfbe9117a
+
+1525043815	2 Verified Identities.
+1525043815	Sender Ok
+1525043824	2 Verified Identities.
+1525043824	Sender Ok
+1525043845	2 Verified Identities.
+1525043845	Sender Ok
+1525127420	wpses_mail user@example.com	
+1525127421	Error	SimpleEmailService::sendEmail(): Sender - MessageRejected: Email address is not verified. The following identities failed the check in region US-EAST-1: user@example.com
+Request Id: 11365928-4cc6-11e8-af02-a36925549cdc
+
+1525127421	wpses_mail Maryiamsaif@Gmail.com	
+1525127421	Error	SimpleEmailService::sendEmail(): Sender - MessageRejected: Email address is not verified. The following identities failed the check in region US-EAST-1: Maryiamsaif@Gmail.com
+Request Id: 116ad66a-4cc6-11e8-ba29-0fdcf919ee64
+
+1525132861	wpses_mail mxcui@chicagobooth.edu	
+1525132861	Error	SimpleEmailService::sendEmail(): Sender - MessageRejected: Email address is not verified. The following identities failed the check in region US-EAST-1: mxcui@chicagobooth.edu
+Request Id: bbd59540-4cd2-11e8-9f1e-8f977490e4c3
+
+1525132881	wpses_mail mxcui@chicagobooth.edu	
+1525132881	Error	SimpleEmailService::sendEmail(): Sender - MessageRejected: Email address is not verified. The following identities failed the check in region US-EAST-1: mxcui@chicagobooth.edu
+Request Id: c7aee0af-4cd2-11e8-b88c-e75ce5db6597
+
+1525142393	wpses_mail "info" <info@naloxoneexchange.com>	From: "Katie Ellis" <wordpress@www.naloxoneexchange.com>
+Reply-To: "Katie Ellis" <kaitlin.h.ellis@gmail.com>
+
+1525142394	SES id=0100016319921438-0c8a860c-6384-4268-a0a1-52f6b78f01a4-000000
+1525277915	wpses_mail "info" <info@naloxoneexchange.com>	From: "Michael" <wordpress@www.naloxoneexchange.com>
+Reply-To: "Michael" <mikexc88@gmail.com>
+
+1525277916	SES id=0100016321a5fba1-895d818b-a1f5-4e39-8bef-73918f962f9b-000000
+1525391393	wpses_mail straker@skulljackdevelopment.com	
+1525391393	Error	SimpleEmailService::sendEmail(): Sender - MessageRejected: Email address is not verified. The following identities failed the check in region US-EAST-1: straker@skulljackdevelopment.com
+Request Id: accb73ab-4f2c-11e8-a55d-51381ee81b6d
+
+1525809128	wpses_mail user@example.com	
+1525809129	Error	SimpleEmailService::sendEmail(): Sender - MessageRejected: Email address is not verified. The following identities failed the check in region US-EAST-1: user@example.com
+Request Id: 4abfad11-52f9-11e8-8b85-35e9aee04285
+
+1525934193	wpses_mail user@example.com	
+1525934193	Error	SimpleEmailService::sendEmail(): Sender - MessageRejected: Email address is not verified. The following identities failed the check in region US-EAST-1: user@example.com
+Request Id: 7b0bac09-541c-11e8-9641-5719420fb3e5
+
+1526178661	wpses_mail rconrad1@alumni.nd.edu	Content-Type: text/html
+
+1526178661	Error	SimpleEmailService::sendEmail(): Sender - MessageRejected: Email address is not verified. The following identities failed the check in region US-EAST-1: rconrad1@alumni.nd.edu
+Request Id: ad1a49ca-5655-11e8-9c40-3b4bd77785c3
+
+1526205650	wpses_mail user@example.com	
+1526205650	Error	SimpleEmailService::sendEmail(): Sender - MessageRejected: Email address is not verified. The following identities failed the check in region US-EAST-1: user@example.com
+Request Id: 8434c774-5694-11e8-a04e-3384e595b6eb
+
+1526237109	wpses_mail rconrad1@alumni.nd.edu	
+1526237109	Error	SimpleEmailService::sendEmail(): Sender - MessageRejected: Email address is not verified. The following identities failed the check in region US-EAST-1: rconrad1@alumni.nd.edu
+Request Id: c320fc33-56dd-11e8-bcec-671912e47206
+
+1526511747	wpses_mail rconrad1@alumni.nd.edu	
+1526511748	Error	SimpleEmailService::sendEmail(): Sender - MessageRejected: Email address is not verified. The following identities failed the check in region US-EAST-1: rconrad1@alumni.nd.edu
+Request Id: 3450ef47-595d-11e8-99fe-f577bf7fda63
+
